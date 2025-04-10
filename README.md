@@ -25,3 +25,5 @@ List to processes to be terminated are to be written here, each on a separate li
 The process is killed.
 <br>
 <br>
+
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/process-kill.windows)
